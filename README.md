@@ -1,4 +1,8 @@
 # calendar
+Consumo de api con Vue/Vuex/Vuetify
+Calendiario que muestra el valor del dolar segun la fecha seleccionada
+
+
 
 ## Project setup
 ```
